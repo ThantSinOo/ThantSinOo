@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThantSinOo
 - 👀 I’m interested in Web, Internet of Things(IoT) and new technologies.
 - 🌱 I’m currently learning python and javascript.
-- 💞️ I’m looking to collaborate with any person, team or organization willing enough in web and IoT and built a better future for all living creatures.
+- 💞️ I’m looking to collaborate with any person, team or organization interested enough in web and IoT and built a better future for all living creatures as well.
 - 📫 You can contact me in email (mgthantsinmm21@gmail.com)
 
 <!---
